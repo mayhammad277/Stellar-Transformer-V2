@@ -108,6 +108,41 @@ python train_full_focal_steleruim.py
 - Mixed Precision: Utilizes torch.cuda.amp (GradScaler) to reduce VRAM usage and accelerate training on NVIDIA GPUs.
 
 
+Visualisations :
+
+
+
+
+<img width="516" height="290" alt="Screenshot from 2026-04-16 04-30-36" src="https://github.com/user-attachments/assets/d54d1000-d164-4126-a511-ef26e6e7124b" />
+
+
+
+
+
+
+
+<img width="513" height="289" alt="Screenshot from 2026-04-16 04-31-25" src="https://github.com/user-attachments/assets/b74e757f-99c9-4e8e-87b9-a1ccb8dd57d9" />
+
+
+
+
+
+
+
+
+
+<img width="514" height="295" alt="Screenshot from 2026-04-16 04-31-45" src="https://github.com/user-attachments/assets/ff80994b-ba17-4fe2-81d7-1e0f0d16ad0a" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
