@@ -142,7 +142,7 @@ SKY Visualisations :
 
 
 
-<img width="1838" height="935" alt="image" src="https://github.com/user-attachments/assets/a87d6999-5b97-4e2a-934b-c77f6c0dd2f9" />
+
 
 
 
